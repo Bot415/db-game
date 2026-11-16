@@ -1,0 +1,1502 @@
+[
+  {
+    "index": 0,
+    "soal": "Alat tulis berbahan kayu dengan isi grafit yang bisa dihapus",
+    "jawaban": "PENSIL"
+  },
+  {
+    "index": 1,
+    "soal": "Benda kecil untuk menghilangkan tulisan pensil",
+    "jawaban": "PENGHAPUS"
+  },
+  {
+    "index": 2,
+    "soal": "Alat tulis untuk membuat garis lurus dan mengukur panjang",
+    "jawaban": "PENGGARIS"
+  },
+  {
+    "index": 3,
+    "soal": "Kumpulan lembar kertas berjilid untuk ditulis atau dibaca",
+    "jawaban": "BUKU"
+  },
+  {
+    "index": 4,
+    "soal": "Alat tulis bertinta yang dipakai menulis di kertas",
+    "jawaban": "PULPEN"
+  },
+  {
+    "index": 5,
+    "soal": "Alat untuk meruncingkan ujung pensil",
+    "jawaban": "RAUTAN"
+  },
+  {
+    "index": 6,
+    "soal": "Alat dua bilah untuk memotong kertas atau kain",
+    "jawaban": "GUNTING"
+  },
+  {
+    "index": 7,
+    "soal": "Bahan perekat untuk menempelkan kertas",
+    "jawaban": "LEM"
+  },
+  {
+    "index": 8,
+    "soal": "Tempat membawa buku dan perlengkapan sekolah",
+    "jawaban": "TAS"
+  },
+  {
+    "index": 9,
+    "soal": "Perabot berpintu tempat menyimpan pakaian",
+    "jawaban": "LEMARI"
+  },
+  {
+    "index": 10,
+    "soal": "Perabot datar berkaki empat tempat menaruh barang atau menulis",
+    "jawaban": "MEJA"
+  },
+  {
+    "index": 11,
+    "soal": "Perabot untuk duduk yang punya sandaran",
+    "jawaban": "KURSI"
+  },
+  {
+    "index": 12,
+    "soal": "Alas empuk di tempat tidur",
+    "jawaban": "KASUR"
+  },
+  {
+    "index": 13,
+    "soal": "Alas empuk untuk kepala saat tidur",
+    "jawaban": "BANTAL"
+  },
+  {
+    "index": 14,
+    "soal": "Kain tebal penghangat badan saat tidur",
+    "jawaban": "SELIMUT"
+  },
+  {
+    "index": 15,
+    "soal": "Kaca untuk melihat bayangan wajah",
+    "jawaban": "CERMIN"
+  },
+  {
+    "index": 16,
+    "soal": "Benda penunjuk waktu di dinding",
+    "jawaban": "JAM"
+  },
+  {
+    "index": 17,
+    "soal": "Benda penerang ruangan",
+    "jawaban": "LAMPU"
+  },
+  {
+    "index": 18,
+    "soal": "Alat berbaling-baling yang menghasilkan angin",
+    "jawaban": "KIPAS"
+  },
+  {
+    "index": 19,
+    "soal": "Peralatan dapur berbentuk cekung untuk menggoreng",
+    "jawaban": "WAJAN"
+  },
+  {
+    "index": 20,
+    "soal": "Peralatan dapur berbentuk tabung untuk merebus",
+    "jawaban": "PANCI"
+  },
+  {
+    "index": 21,
+    "soal": "Alat makan berbentuk cekung untuk menyuap nasi",
+    "jawaban": "SENDOK"
+  },
+  {
+    "index": 22,
+    "soal": "Alat makan bergigi untuk menusuk makanan",
+    "jawaban": "GARPU"
+  },
+  {
+    "index": 23,
+    "soal": "Alat tajam dapur untuk mengiris sayuran",
+    "jawaban": "PISAU"
+  },
+  {
+    "index": 24,
+    "soal": "Wadah datar tempat menaruh nasi dan lauk",
+    "jawaban": "PIRING"
+  },
+  {
+    "index": 25,
+    "soal": "Wadah cekung tempat menyajikan sup atau bakso",
+    "jawaban": "MANGKOK"
+  },
+  {
+    "index": 26,
+    "soal": "Wadah tembus pandang untuk minum",
+    "jawaban": "GELAS"
+  },
+  {
+    "index": 27,
+    "soal": "Alat untuk memasak dengan api gas",
+    "jawaban": "KOMPOR"
+  },
+  {
+    "index": 28,
+    "soal": "Pakaian berkancing dan berkerah untuk badan bagian atas",
+    "jawaban": "KEMEJA"
+  },
+  {
+    "index": 29,
+    "soal": "Pakaian yang menutupi kedua kaki",
+    "jawaban": "CELANA"
+  },
+  {
+    "index": 30,
+    "soal": "Penutup badan bagian atas secara umum",
+    "jawaban": "BAJU"
+  },
+  {
+    "index": 31,
+    "soal": "Kain berbentuk tabung yang dipakai saat salat",
+    "jawaban": "SARUNG"
+  },
+  {
+    "index": 32,
+    "soal": "Penutup kepala untuk menahan panas",
+    "jawaban": "TOPI"
+  },
+  {
+    "index": 33,
+    "soal": "Alas kaki tertutup untuk ke sekolah",
+    "jawaban": "SEPATU"
+  },
+  {
+    "index": 34,
+    "soal": "Alas kaki terbuka yang dipakai santai",
+    "jawaban": "SANDAL"
+  },
+  {
+    "index": 35,
+    "soal": "Pelindung dari hujan atau panas yang bisa dilipat",
+    "jawaban": "PAYUNG"
+  },
+  {
+    "index": 36,
+    "soal": "Alat membersihkan lantai dari debu",
+    "jawaban": "SAPU"
+  },
+  {
+    "index": 37,
+    "soal": "Pengajar di sekolah yang mendidik murid",
+    "jawaban": "GURU"
+  },
+  {
+    "index": 38,
+    "soal": "Ahli yang memeriksa dan mengobati pasien",
+    "jawaban": "DOKTER"
+  },
+  {
+    "index": 39,
+    "soal": "Orang yang menerbangkan pesawat",
+    "jawaban": "PILOT"
+  },
+  {
+    "index": 40,
+    "soal": "Ahli memasak di restoran",
+    "jawaban": "KOKI"
+  },
+  {
+    "index": 41,
+    "soal": "Penegak hukum yang menjaga keamanan dan menilang",
+    "jawaban": "POLISI"
+  },
+  {
+    "index": 42,
+    "soal": "Tenaga kesehatan yang merawat pasien di rumah sakit",
+    "jawaban": "PERAWAT"
+  },
+  {
+    "index": 43,
+    "soal": "Orang yang bercocok tanam di sawah atau ladang",
+    "jawaban": "PETANI"
+  },
+  {
+    "index": 44,
+    "soal": "Orang yang mencari ikan di laut",
+    "jawaban": "NELAYAN"
+  },
+  {
+    "index": 45,
+    "soal": "Orang yang berjualan barang di pasar",
+    "jawaban": "PEDAGANG"
+  },
+  {
+    "index": 46,
+    "soal": "Orang yang mengemudikan mobil atau bus",
+    "jawaban": "SOPIR"
+  },
+  {
+    "index": 47,
+    "soal": "Pengemudi kereta api",
+    "jawaban": "MASINIS"
+  },
+  {
+    "index": 48,
+    "soal": "Prajurit yang menjaga pertahanan negara",
+    "jawaban": "TENTARA"
+  },
+  {
+    "index": 49,
+    "soal": "Orang yang membuat pakaian dengan jarum dan mesin",
+    "jawaban": "PENJAHIT"
+  },
+  {
+    "index": 50,
+    "soal": "Penuntut perkara di pengadilan",
+    "jawaban": "JAKSA"
+  },
+  {
+    "index": 51,
+    "soal": "Pemimpin sidang yang memutuskan vonis",
+    "jawaban": "HAKIM"
+  },
+  {
+    "index": 52,
+    "soal": "Pembela hukum yang mendampingi klien",
+    "jawaban": "PENGACARA"
+  },
+  {
+    "index": 53,
+    "soal": "Pencari berita untuk surat kabar dan televisi",
+    "jawaban": "WARTAWAN"
+  },
+  {
+    "index": 54,
+    "soal": "Orang yang menyusun buku atau artikel",
+    "jawaban": "PENULIS"
+  },
+  {
+    "index": 55,
+    "soal": "Seniman yang membuat gambar di kanvas",
+    "jawaban": "PELUKIS"
+  },
+  {
+    "index": 56,
+    "soal": "Orang yang menghibur dengan suara merdu",
+    "jawaban": "PENYANYI"
+  },
+  {
+    "index": 57,
+    "soal": "Pemimpin pertandingan yang meniup peluit",
+    "jawaban": "WASIT"
+  },
+  {
+    "index": 58,
+    "soal": "Orang yang melatih tim olahraga",
+    "jawaban": "PELATIH"
+  },
+  {
+    "index": 59,
+    "soal": "Pengajar di perguruan tinggi",
+    "jawaban": "DOSEN"
+  },
+  {
+    "index": 60,
+    "soal": "Petugas yang menjaga keamanan gedung",
+    "jawaban": "SATPAM"
+  },
+  {
+    "index": 61,
+    "soal": "Penjaga kasa yang menghitung belanjaan",
+    "jawaban": "KASIR"
+  },
+  {
+    "index": 62,
+    "soal": "Awak pesawat yang melayani penumpang",
+    "jawaban": "PRAMUGARI"
+  },
+  {
+    "index": 63,
+    "soal": "Pemimpin kapal laut",
+    "jawaban": "NAKHODA"
+  },
+  {
+    "index": 64,
+    "soal": "Ahli yang memperbaiki mesin kendaraan",
+    "jawaban": "MONTIR"
+  },
+  {
+    "index": 65,
+    "soal": "Pemimpin ibadah umat Kristen",
+    "jawaban": "PENDETA"
+  },
+  {
+    "index": 66,
+    "soal": "Penolong persalinan ibu melahirkan",
+    "jawaban": "BIDAN"
+  },
+  {
+    "index": 67,
+    "soal": "Orang yang menampilkan gerak tubuh seirama musik",
+    "jawaban": "PENARI"
+  },
+  {
+    "index": 68,
+    "soal": "Pemain wayang kulit yang menyuarakan semua tokohnya",
+    "jawaban": "DALANG"
+  },
+  {
+    "index": 69,
+    "soal": "Kepala pemerintah kabupaten",
+    "jawaban": "BUPATI"
+  },
+  {
+    "index": 70,
+    "soal": "Pemimpin tertinggi negara Indonesia",
+    "jawaban": "PRESIDEN"
+  },
+  {
+    "index": 71,
+    "soal": "Pembantu presiden yang memimpin satu bidang pemerintahan",
+    "jawaban": "MENTERI"
+  },
+  {
+    "index": 72,
+    "soal": "Pengantar paket ke rumah",
+    "jawaban": "KURIR"
+  },
+  {
+    "index": 73,
+    "soal": "Orang yang memelihara sapi atau ayam untuk dijual",
+    "jawaban": "PETERNAK"
+  },
+  {
+    "index": 74,
+    "soal": "Hewan peliharaan yang suka mengeong dan memburu tikus",
+    "jawaban": "KUCING"
+  },
+  {
+    "index": 75,
+    "soal": "Hewan setia yang menggonggong dan menjaga rumah",
+    "jawaban": "ANJING"
+  },
+  {
+    "index": 76,
+    "soal": "Hewan bertelinga panjang yang gemar makan wortel",
+    "jawaban": "KELINCI"
+  },
+  {
+    "index": 77,
+    "soal": "Kucing besar bergaris loreng yang hidup di hutan Sumatra",
+    "jawaban": "HARIMAU"
+  },
+  {
+    "index": 78,
+    "soal": "Hewan darat terbesar yang punya belalai dan gading",
+    "jawaban": "GAJAH"
+  },
+  {
+    "index": 79,
+    "soal": "Hewan berleher paling panjang di dunia",
+    "jawaban": "JERAPAH"
+  },
+  {
+    "index": 80,
+    "soal": "Hewan yang sering ditunggangi dan berlari kencang",
+    "jawaban": "KUDA"
+  },
+  {
+    "index": 81,
+    "soal": "Hewan ternak penghasil susu dan daging",
+    "jawaban": "SAPI"
+  },
+  {
+    "index": 82,
+    "soal": "Hewan ternak berjanggut yang dagingnya dibuat sate",
+    "jawaban": "KAMBING"
+  },
+  {
+    "index": 83,
+    "soal": "Unggas ternak yang berkokok di pagi hari",
+    "jawaban": "AYAM"
+  },
+  {
+    "index": 84,
+    "soal": "Unggas yang pandai berenang dan bersuara kwek",
+    "jawaban": "BEBEK"
+  },
+  {
+    "index": 85,
+    "soal": "Hewan bersayap dan berbulu yang bisa terbang",
+    "jawaban": "BURUNG"
+  },
+  {
+    "index": 86,
+    "soal": "Hewan air bersisik yang bernapas dengan insang",
+    "jawaban": "IKAN"
+  },
+  {
+    "index": 87,
+    "soal": "Hewan melompat yang berkoak di sawah saat hujan",
+    "jawaban": "KODOK"
+  },
+  {
+    "index": 88,
+    "soal": "Hewan melata tanpa kaki yang sebagian berbisa",
+    "jawaban": "ULAR"
+  },
+  {
+    "index": 89,
+    "soal": "Hewan bersisik bergigi tajam yang hidup di sungai dan rawa",
+    "jawaban": "BUAYA"
+  },
+  {
+    "index": 90,
+    "soal": "Raja hutan, jantannya berbulu tebal di leher",
+    "jawaban": "SINGA"
+  },
+  {
+    "index": 91,
+    "soal": "Hewan pemanjat pohon yang gemar makan pisang",
+    "jawaban": "MONYET"
+  },
+  {
+    "index": 92,
+    "soal": "Pengerat kecil yang suka mencuri makanan",
+    "jawaban": "TIKUS"
+  },
+  {
+    "index": 93,
+    "soal": "Serangga penghasil madu",
+    "jawaban": "LEBAH"
+  },
+  {
+    "index": 94,
+    "soal": "Buah berdaging kuning manis dengan biji besar dan pipih",
+    "jawaban": "MANGGA"
+  },
+  {
+    "index": 95,
+    "soal": "Buah berkulit kuning yang tumbuh dalam sisir",
+    "jawaban": "PISANG"
+  },
+  {
+    "index": 96,
+    "soal": "Buah bulat renyah berwarna merah atau hijau",
+    "jawaban": "APEL"
+  },
+  {
+    "index": 97,
+    "soal": "Buah bulat berkulit oranye dengan rasa asam segar",
+    "jawaban": "JERUK"
+  },
+  {
+    "index": 98,
+    "soal": "Buah besar berkulit hijau, daging merah dan berair",
+    "jawaban": "SEMANGKA"
+  },
+  {
+    "index": 99,
+    "soal": "Buah berduri berdaun runcing dengan rasa asam manis",
+    "jawaban": "NANAS"
+  },
+  {
+    "index": 100,
+    "soal": "Raja buah berkulit duri dengan bau menyengat",
+    "jawaban": "DURIAN"
+  },
+  {
+    "index": 101,
+    "soal": "Buah berkulit rambut merah dengan daging putih bening",
+    "jawaban": "RAMBUTAN"
+  },
+  {
+    "index": 102,
+    "soal": "Buah berdaging jingga yang manis dan berbiji hitam",
+    "jawaban": "PEPAYA"
+  },
+  {
+    "index": 103,
+    "soal": "Sayuran hijau yang sering dibuat sayur bening",
+    "jawaban": "BAYAM"
+  },
+  {
+    "index": 104,
+    "soal": "Sayuran berbatang berongga yang sering ditumis",
+    "jawaban": "KANGKUNG"
+  },
+  {
+    "index": 105,
+    "soal": "Sayuran akar berwarna oranye yang baik untuk mata",
+    "jawaban": "WORTEL"
+  },
+  {
+    "index": 106,
+    "soal": "Buah sayur merah berair untuk bahan saus",
+    "jawaban": "TOMAT"
+  },
+  {
+    "index": 107,
+    "soal": "Sayuran kecil pedas bahan sambal",
+    "jawaban": "CABAI"
+  },
+  {
+    "index": 108,
+    "soal": "Tanaman berbiji kuning yang dibakar atau direbus",
+    "jawaban": "JAGUNG"
+  },
+  {
+    "index": 109,
+    "soal": "Bunga berduri yang melambangkan cinta",
+    "jawaban": "MAWAR"
+  },
+  {
+    "index": 110,
+    "soal": "Pohon pantai yang buahnya berair dan bersantan",
+    "jawaban": "KELAPA"
+  },
+  {
+    "index": 111,
+    "soal": "Tanaman penghasil beras",
+    "jawaban": "PADI"
+  },
+  {
+    "index": 112,
+    "soal": "Panca indra untuk melihat",
+    "jawaban": "MATA"
+  },
+  {
+    "index": 113,
+    "soal": "Bagian wajah untuk mencium bau",
+    "jawaban": "HIDUNG"
+  },
+  {
+    "index": 114,
+    "soal": "Bagian kepala untuk mendengar",
+    "jawaban": "TELINGA"
+  },
+  {
+    "index": 115,
+    "soal": "Bagian wajah tempat makan dan bicara",
+    "jawaban": "MULUT"
+  },
+  {
+    "index": 116,
+    "soal": "Benda putih keras di mulut untuk mengunyah",
+    "jawaban": "GIGI"
+  },
+  {
+    "index": 117,
+    "soal": "Alat pengecap di dalam mulut",
+    "jawaban": "LIDAH"
+  },
+  {
+    "index": 118,
+    "soal": "Bagian merah di tepi mulut",
+    "jawaban": "BIBIR"
+  },
+  {
+    "index": 119,
+    "soal": "Bagian wajah di bawah mata yang bisa memerah",
+    "jawaban": "PIPI"
+  },
+  {
+    "index": 120,
+    "soal": "Bagian wajah paling bawah di bawah mulut",
+    "jawaban": "DAGU"
+  },
+  {
+    "index": 121,
+    "soal": "Bagian wajah di atas alis",
+    "jawaban": "DAHI"
+  },
+  {
+    "index": 122,
+    "soal": "Rambut halus melengkung di atas mata",
+    "jawaban": "ALIS"
+  },
+  {
+    "index": 123,
+    "soal": "Helai halus yang tumbuh di kepala",
+    "jawaban": "RAMBUT"
+  },
+  {
+    "index": 124,
+    "soal": "Bagian tubuh paling atas tempat otak berada",
+    "jawaban": "KEPALA"
+  },
+  {
+    "index": 125,
+    "soal": "Bagian tubuh penghubung kepala dan badan",
+    "jawaban": "LEHER"
+  },
+  {
+    "index": 126,
+    "soal": "Sendi tempat lengan bertemu badan",
+    "jawaban": "BAHU"
+  },
+  {
+    "index": 127,
+    "soal": "Bagian tubuh dari bahu sampai pergelangan",
+    "jawaban": "LENGAN"
+  },
+  {
+    "index": 128,
+    "soal": "Sendi di tengah lengan",
+    "jawaban": "SIKU"
+  },
+  {
+    "index": 129,
+    "soal": "Anggota tubuh untuk memegang dan menulis",
+    "jawaban": "TANGAN"
+  },
+  {
+    "index": 130,
+    "soal": "Bagian ujung tangan yang jumlahnya lima",
+    "jawaban": "JARI"
+  },
+  {
+    "index": 131,
+    "soal": "Lapisan keras di ujung jari yang perlu dipotong",
+    "jawaban": "KUKU"
+  },
+  {
+    "index": 132,
+    "soal": "Jari tangan yang paling besar",
+    "jawaban": "JEMPOL"
+  },
+  {
+    "index": 133,
+    "soal": "Jari yang dipakai untuk menunjuk",
+    "jawaban": "TELUNJUK"
+  },
+  {
+    "index": 134,
+    "soal": "Jari tangan yang paling kecil",
+    "jawaban": "KELINGKING"
+  },
+  {
+    "index": 135,
+    "soal": "Bagian depan badan tempat jantung berada",
+    "jawaban": "DADA"
+  },
+  {
+    "index": 136,
+    "soal": "Bagian badan tempat lambung dan usus",
+    "jawaban": "PERUT"
+  },
+  {
+    "index": 137,
+    "soal": "Bagian belakang badan",
+    "jawaban": "PUNGGUNG"
+  },
+  {
+    "index": 138,
+    "soal": "Bagian kaki di atas lutut",
+    "jawaban": "PAHA"
+  },
+  {
+    "index": 139,
+    "soal": "Sendi di tengah kaki",
+    "jawaban": "LUTUT"
+  },
+  {
+    "index": 140,
+    "soal": "Bagian belakang kaki di bawah lutut",
+    "jawaban": "BETIS"
+  },
+  {
+    "index": 141,
+    "soal": "Anggota tubuh untuk berjalan dan berlari",
+    "jawaban": "KAKI"
+  },
+  {
+    "index": 142,
+    "soal": "Bagian belakang telapak kaki",
+    "jawaban": "TUMIT"
+  },
+  {
+    "index": 143,
+    "soal": "Organ pemompa darah",
+    "jawaban": "JANTUNG"
+  },
+  {
+    "index": 144,
+    "soal": "Organ besar di perut kanan atas yang menyaring racun",
+    "jawaban": "HATI"
+  },
+  {
+    "index": 145,
+    "soal": "Organ di kepala pusat pikiran",
+    "jawaban": "OTAK"
+  },
+  {
+    "index": 146,
+    "soal": "Rangka keras penopang tubuh",
+    "jawaban": "TULANG"
+  },
+  {
+    "index": 147,
+    "soal": "Lapisan terluar yang membungkus tubuh",
+    "jawaban": "KULIT"
+  },
+  {
+    "index": 148,
+    "soal": "Cairan merah yang mengalir lewat pembuluh",
+    "jawaban": "DARAH"
+  },
+  {
+    "index": 149,
+    "soal": "Negara kepulauan terbesar di dunia dengan lebih dari 17 ribu pulau",
+    "jawaban": "INDONESIA"
+  },
+  {
+    "index": 150,
+    "soal": "Negeri sakura di Asia Timur",
+    "jawaban": "JEPANG"
+  },
+  {
+    "index": 151,
+    "soal": "Negara dengan piramida dan sungai Nil",
+    "jawaban": "MESIR"
+  },
+  {
+    "index": 152,
+    "soal": "Negara tetangga yang berbatasan dengan Pulau Kalimantan",
+    "jawaban": "MALAYSIA"
+  },
+  {
+    "index": 153,
+    "soal": "Negara kota berlambang singa",
+    "jawaban": "SINGAPURA"
+  },
+  {
+    "index": 154,
+    "soal": "Kota dengan Monas dan Bundaran HI",
+    "jawaban": "JAKARTA"
+  },
+  {
+    "index": 155,
+    "soal": "Hari pertama dalam sepekan kerja",
+    "jawaban": "SENIN"
+  },
+  {
+    "index": 156,
+    "soal": "Hari setelah Senin",
+    "jawaban": "SELASA"
+  },
+  {
+    "index": 157,
+    "soal": "Hari di tengah pekan setelah Selasa",
+    "jawaban": "RABU"
+  },
+  {
+    "index": 158,
+    "soal": "Hari sebelum Jumat",
+    "jawaban": "KAMIS"
+  },
+  {
+    "index": 159,
+    "soal": "Hari sebelum Sabtu",
+    "jawaban": "JUMAT"
+  },
+  {
+    "index": 160,
+    "soal": "Hari sebelum Minggu",
+    "jawaban": "SABTU"
+  },
+  {
+    "index": 161,
+    "soal": "Hari terakhir dalam sepekan yang biasanya libur",
+    "jawaban": "MINGGU"
+  },
+  {
+    "index": 162,
+    "soal": "Bulan pertama dalam setahun",
+    "jawaban": "JANUARI"
+  },
+  {
+    "index": 163,
+    "soal": "Bulan kedua yang paling pendek",
+    "jawaban": "FEBRUARI"
+  },
+  {
+    "index": 164,
+    "soal": "Bulan ketiga dalam setahun",
+    "jawaban": "MARET"
+  },
+  {
+    "index": 165,
+    "soal": "Bulan keempat dalam setahun",
+    "jawaban": "APRIL"
+  },
+  {
+    "index": 166,
+    "soal": "Bulan kelima yang memuat Hari Buruh",
+    "jawaban": "MEI"
+  },
+  {
+    "index": 167,
+    "soal": "Bulan keenam dalam setahun",
+    "jawaban": "JUNI"
+  },
+  {
+    "index": 168,
+    "soal": "Bulan ketujuh dalam setahun",
+    "jawaban": "JULI"
+  },
+  {
+    "index": 169,
+    "soal": "Bulan kemerdekaan Indonesia",
+    "jawaban": "AGUSTUS"
+  },
+  {
+    "index": 170,
+    "soal": "Bulan kesembilan dalam setahun",
+    "jawaban": "SEPTEMBER"
+  },
+  {
+    "index": 171,
+    "soal": "Bulan kesepuluh dalam setahun",
+    "jawaban": "OKTOBER"
+  },
+  {
+    "index": 172,
+    "soal": "Bulan kesebelas dalam setahun",
+    "jawaban": "NOVEMBER"
+  },
+  {
+    "index": 173,
+    "soal": "Bulan kedua belas yang menutup tahun",
+    "jawaban": "DESEMBER"
+  },
+  {
+    "index": 174,
+    "soal": "Warna darah dan cabai",
+    "jawaban": "MERAH"
+  },
+  {
+    "index": 175,
+    "soal": "Warna langit cerah dan laut",
+    "jawaban": "BIRU"
+  },
+  {
+    "index": 176,
+    "soal": "Warna daun dan rumput",
+    "jawaban": "HIJAU"
+  },
+  {
+    "index": 177,
+    "soal": "Warna pisang matang",
+    "jawaban": "KUNING"
+  },
+  {
+    "index": 178,
+    "soal": "Warna arang dan malam gelap",
+    "jawaban": "HITAM"
+  },
+  {
+    "index": 179,
+    "soal": "Warna kapas dan salju",
+    "jawaban": "PUTIH"
+  },
+  {
+    "index": 180,
+    "soal": "Warna terong dan anggur",
+    "jawaban": "UNGU"
+  },
+  {
+    "index": 181,
+    "soal": "Warna campuran merah dan kuning seperti jeruk",
+    "jawaban": "JINGGA"
+  },
+  {
+    "index": 182,
+    "soal": "Warna campuran hitam dan putih",
+    "jawaban": "ABUABU"
+  },
+  {
+    "index": 183,
+    "soal": "Arah mata angin di bagian atas peta",
+    "jawaban": "UTARA"
+  },
+  {
+    "index": 184,
+    "soal": "Arah mata angin yang berlawanan dengan utara",
+    "jawaban": "SELATAN"
+  },
+  {
+    "index": 185,
+    "soal": "Arah matahari terbit",
+    "jawaban": "TIMUR"
+  },
+  {
+    "index": 186,
+    "soal": "Arah matahari terbenam",
+    "jawaban": "BARAT"
+  },
+  {
+    "index": 187,
+    "soal": "Persamaan kata dari 'cantik', diawali huruf J",
+    "jawaban": "JELITA"
+  },
+  {
+    "index": 188,
+    "soal": "Persamaan kata dari 'pintar', diawali huruf P",
+    "jawaban": "PANDAI"
+  },
+  {
+    "index": 189,
+    "soal": "Persamaan kata dari 'rajin', diawali huruf G",
+    "jawaban": "GIAT"
+  },
+  {
+    "index": 190,
+    "soal": "Persamaan kata dari 'cepat', diawali huruf L",
+    "jawaban": "LEKAS"
+  },
+  {
+    "index": 191,
+    "soal": "Persamaan kata dari 'senang', diawali huruf G",
+    "jawaban": "GEMBIRA"
+  },
+  {
+    "index": 192,
+    "soal": "Persamaan kata dari 'kecil', diawali huruf M",
+    "jawaban": "MUNGIL"
+  },
+  {
+    "index": 193,
+    "soal": "Persamaan kata dari 'bohong', diawali huruf D",
+    "jawaban": "DUSTA"
+  },
+  {
+    "index": 194,
+    "soal": "Persamaan kata dari 'teman', diawali huruf K",
+    "jawaban": "KAWAN"
+  },
+  {
+    "index": 195,
+    "soal": "Persamaan kata dari 'uang', diawali huruf D",
+    "jawaban": "DUIT"
+  },
+  {
+    "index": 196,
+    "soal": "Persamaan kata dari 'ayah', diawali huruf B",
+    "jawaban": "BAPAK"
+  },
+  {
+    "index": 197,
+    "soal": "Persamaan kata dari 'ibu', diawali huruf E",
+    "jawaban": "EMAK"
+  },
+  {
+    "index": 198,
+    "soal": "Persamaan kata dari 'indah', diawali huruf E",
+    "jawaban": "ELOK"
+  },
+  {
+    "index": 199,
+    "soal": "Persamaan kata dari 'jelek', diawali huruf B",
+    "jawaban": "BURUK"
+  },
+  {
+    "index": 200,
+    "soal": "Persamaan kata dari 'hadiah', diawali huruf K",
+    "jawaban": "KADO"
+  },
+  {
+    "index": 201,
+    "soal": "Persamaan kata dari 'sunyi', diawali huruf S",
+    "jawaban": "SEPI"
+  },
+  {
+    "index": 202,
+    "soal": "Lawan kata dari 'tinggi'",
+    "jawaban": "RENDAH"
+  },
+  {
+    "index": 203,
+    "soal": "Lawan kata dari 'besar'",
+    "jawaban": "KECIL"
+  },
+  {
+    "index": 204,
+    "soal": "Lawan kata dari 'panjang'",
+    "jawaban": "PENDEK"
+  },
+  {
+    "index": 205,
+    "soal": "Lawan kata dari 'siang'",
+    "jawaban": "MALAM"
+  },
+  {
+    "index": 206,
+    "soal": "Lawan kata dari 'panas'",
+    "jawaban": "DINGIN"
+  },
+  {
+    "index": 207,
+    "soal": "Lawan kata dari 'jauh'",
+    "jawaban": "DEKAT"
+  },
+  {
+    "index": 208,
+    "soal": "Lawan kata dari 'baik'",
+    "jawaban": "JAHAT"
+  },
+  {
+    "index": 209,
+    "soal": "Lawan kata dari 'kaya'",
+    "jawaban": "MISKIN"
+  },
+  {
+    "index": 210,
+    "soal": "Lawan kata dari 'cepat'",
+    "jawaban": "LAMBAT"
+  },
+  {
+    "index": 211,
+    "soal": "Lawan kata dari 'terang'",
+    "jawaban": "GELAP"
+  },
+  {
+    "index": 212,
+    "soal": "Lawan kata dari 'senang'",
+    "jawaban": "SEDIH"
+  },
+  {
+    "index": 213,
+    "soal": "Lawan kata dari 'masuk'",
+    "jawaban": "KELUAR"
+  },
+  {
+    "index": 214,
+    "soal": "Lawan kata dari 'naik'",
+    "jawaban": "TURUN"
+  },
+  {
+    "index": 215,
+    "soal": "Lawan kata dari 'buka'",
+    "jawaban": "TUTUP"
+  },
+  {
+    "index": 216,
+    "soal": "Lawan kata dari 'atas'",
+    "jawaban": "BAWAH"
+  },
+  {
+    "index": 217,
+    "soal": "Lawan kata dari 'kiri'",
+    "jawaban": "KANAN"
+  },
+  {
+    "index": 218,
+    "soal": "Lawan kata dari 'tebal'",
+    "jawaban": "TIPIS"
+  },
+  {
+    "index": 219,
+    "soal": "Lawan kata dari 'berat'",
+    "jawaban": "RINGAN"
+  },
+  {
+    "index": 220,
+    "soal": "Lawan kata dari 'kuat'",
+    "jawaban": "LEMAH"
+  },
+  {
+    "index": 221,
+    "soal": "Lawan kata dari 'pintar'",
+    "jawaban": "BODOH"
+  },
+  {
+    "index": 222,
+    "soal": "Lawan kata dari 'rajin'",
+    "jawaban": "MALAS"
+  },
+  {
+    "index": 223,
+    "soal": "Lawan kata dari 'bersih'",
+    "jawaban": "KOTOR"
+  },
+  {
+    "index": 224,
+    "soal": "Makanan pokok hasil tanakan beras",
+    "jawaban": "NASI"
+  },
+  {
+    "index": 225,
+    "soal": "Bola daging dalam kuah bening ditambah mie",
+    "jawaban": "BAKSO"
+  },
+  {
+    "index": 226,
+    "soal": "Pemanis berbentuk butiran dari tebu",
+    "jawaban": "GULA"
+  },
+  {
+    "index": 227,
+    "soal": "Minuman hangat dari seduhan daun kering",
+    "jawaban": "TEH"
+  },
+  {
+    "index": 228,
+    "soal": "Minuman hitam pahit yang diseduh dari bubuk biji",
+    "jawaban": "KOPI"
+  },
+  {
+    "index": 229,
+    "soal": "Minuman putih bergizi dari sapi",
+    "jawaban": "SUSU"
+  },
+  {
+    "index": 230,
+    "soal": "Makanan dari adonan tepung yang dipanggang",
+    "jawaban": "ROTI"
+  },
+  {
+    "index": 231,
+    "soal": "Makanan berbentuk helai panjang yang direbus atau digoreng",
+    "jawaban": "MIE"
+  },
+  {
+    "index": 232,
+    "soal": "Sup berkuah kuning dengan suwiran ayam",
+    "jawaban": "SOTO"
+  },
+  {
+    "index": 233,
+    "soal": "Masakan daging bersantan khas Minang",
+    "jawaban": "RENDANG"
+  },
+  {
+    "index": 234,
+    "soal": "Daging tusuk bakar dengan bumbu kacang",
+    "jawaban": "SATE"
+  },
+  {
+    "index": 235,
+    "soal": "Sayuran rebus dengan sambal kacang khas Jawa",
+    "jawaban": "PECEL"
+  },
+  {
+    "index": 236,
+    "soal": "Irisan buah dengan bumbu gula merah dan cabai",
+    "jawaban": "RUJAK"
+  },
+  {
+    "index": 237,
+    "soal": "Nasi dalam anyaman janur yang identik dengan Lebaran",
+    "jawaban": "KETUPAT"
+  },
+  {
+    "index": 238,
+    "soal": "Beras padat dibungkus daun pisang yang dipotong bulat",
+    "jawaban": "LONTONG"
+  },
+  {
+    "index": 239,
+    "soal": "Makanan dari kedelai yang diragi, asli Indonesia",
+    "jawaban": "TEMPE"
+  },
+  {
+    "index": 240,
+    "soal": "Olahan kedelai putih lunak yang sering digoreng",
+    "jawaban": "TAHU"
+  },
+  {
+    "index": 241,
+    "soal": "Jajanan tebal bermanis atau berisi telur yang dijual malam hari",
+    "jawaban": "MARTABAK"
+  },
+  {
+    "index": 242,
+    "soal": "Camilan renyah pelengkap nasi goreng",
+    "jawaban": "KERUPUK"
+  },
+  {
+    "index": 243,
+    "soal": "Gorengan sayur berbahan tepung dan kol",
+    "jawaban": "BAKWAN"
+  },
+  {
+    "index": 244,
+    "soal": "Saus pedas dari cabai yang diulek",
+    "jawaban": "SAMBAL"
+  },
+  {
+    "index": 245,
+    "soal": "Bumbu putih penyedap berasa asin",
+    "jawaban": "GARAM"
+  },
+  {
+    "index": 246,
+    "soal": "Cairan untuk menggoreng makanan",
+    "jawaban": "MINYAK"
+  },
+  {
+    "index": 247,
+    "soal": "Serbuk halus bahan kue dari gandum",
+    "jawaban": "TEPUNG"
+  },
+  {
+    "index": 248,
+    "soal": "Hasil ayam yang bisa didadar atau direbus",
+    "jawaban": "TELUR"
+  },
+  {
+    "index": 249,
+    "soal": "Saus hitam kental dari kedelai",
+    "jawaban": "KECAP"
+  },
+  {
+    "index": 250,
+    "soal": "Olahan susu yang padat dan gurih",
+    "jawaban": "KEJU"
+  },
+  {
+    "index": 251,
+    "soal": "Cairan putih kental dari parutan kelapa",
+    "jawaban": "SANTAN"
+  },
+  {
+    "index": 252,
+    "soal": "Butiran putih dari padi yang ditanak",
+    "jawaban": "BERAS"
+  },
+  {
+    "index": 253,
+    "soal": "Makanan lembut berkuah yang cocok untuk sarapan",
+    "jawaban": "BUBUR"
+  },
+  {
+    "index": 254,
+    "soal": "Camilan manis dari biji kakao",
+    "jawaban": "COKELAT"
+  },
+  {
+    "index": 255,
+    "soal": "Gula-gula yang manis dan dihisap",
+    "jawaban": "PERMEN"
+  },
+  {
+    "index": 256,
+    "soal": "Olahan daging berbentuk panjang dan bulat",
+    "jawaban": "SOSIS"
+  },
+  {
+    "index": 257,
+    "soal": "Makanan lembut kenyal dari susu dan agar-agar",
+    "jawaban": "PUDING"
+  },
+  {
+    "index": 258,
+    "soal": "Cairan manis kental hasil lebah",
+    "jawaban": "MADU"
+  },
+  {
+    "index": 259,
+    "soal": "Minuman dari buah yang dihaluskan",
+    "jawaban": "JUS"
+  },
+  {
+    "index": 260,
+    "soal": "Makanan manis yang dingin dan mudah meleleh",
+    "jawaban": "ESKRIM"
+  },
+  {
+    "index": 261,
+    "soal": "Kue lembut berpori yang dipanggang",
+    "jawaban": "BOLU"
+  },
+  {
+    "index": 262,
+    "soal": "Olahraga 11 lawan 11 menendang bola ke gawang",
+    "jawaban": "SEPAKBOLA"
+  },
+  {
+    "index": 263,
+    "soal": "Olahraga memukul kok dengan raket",
+    "jawaban": "BULUTANGKIS"
+  },
+  {
+    "index": 264,
+    "soal": "Olahraga bergerak di dalam kolam air",
+    "jawaban": "RENANG"
+  },
+  {
+    "index": 265,
+    "soal": "Olahraga cepat mengayun kaki di lintasan",
+    "jawaban": "LARI"
+  },
+  {
+    "index": 266,
+    "soal": "Gerakan tubuh untuk melenturkan otot",
+    "jawaban": "SENAM"
+  },
+  {
+    "index": 267,
+    "soal": "Kegiatan mengayuh dua roda untuk berolahraga",
+    "jawaban": "BERSEPEDA"
+  },
+  {
+    "index": 268,
+    "soal": "Olahraga bertarung memakai sarung tangan besar",
+    "jawaban": "TINJU"
+  },
+  {
+    "index": 269,
+    "soal": "Beladiri tradisional Nusantara",
+    "jawaban": "SILAT"
+  },
+  {
+    "index": 270,
+    "soal": "Olahraga membidik sasaran dengan busur",
+    "jawaban": "PANAHAN"
+  },
+  {
+    "index": 271,
+    "soal": "Olahraga mengangkat beban yang berat",
+    "jawaban": "ANGKATBESI"
+  },
+  {
+    "index": 272,
+    "soal": "Kegiatan menjelajah di dalam laut",
+    "jawaban": "MENYELAM"
+  },
+  {
+    "index": 273,
+    "soal": "Kegiatan naik gunung",
+    "jawaban": "MENDAKI"
+  },
+  {
+    "index": 274,
+    "soal": "Kegiatan bermalam di tenda alam terbuka",
+    "jawaban": "BERKEMAH"
+  },
+  {
+    "index": 275,
+    "soal": "Kegiatan menunggu ikan menggigit kail",
+    "jawaban": "MEMANCING"
+  },
+  {
+    "index": 276,
+    "soal": "Kegiatan menggores warna di kanvas",
+    "jawaban": "MELUKIS"
+  },
+  {
+    "index": 277,
+    "soal": "Kegiatan melantunkan lagu",
+    "jawaban": "MENYANYI"
+  },
+  {
+    "index": 278,
+    "soal": "Seni bunyi dan nada yang dinikmati telinga",
+    "jawaban": "MUSIK"
+  },
+  {
+    "index": 279,
+    "soal": "Kegiatan bergerak mengikuti irama",
+    "jawaban": "MENARI"
+  },
+  {
+    "index": 280,
+    "soal": "Hobi mengolah bahan jadi hidangan",
+    "jawaban": "MEMASAK"
+  },
+  {
+    "index": 281,
+    "soal": "Hobi menikmati buku dan cerita",
+    "jawaban": "MEMBACA"
+  },
+  {
+    "index": 282,
+    "soal": "Hobi menuangkan pikiran menjadi kata",
+    "jawaban": "MENULIS"
+  },
+  {
+    "index": 283,
+    "soal": "Hobi menanam bunga dan sayur",
+    "jawaban": "BERKEBUN"
+  },
+  {
+    "index": 284,
+    "soal": "Hobi merangkai kain dengan jarum dan benang",
+    "jawaban": "MENJAHIT"
+  },
+  {
+    "index": 285,
+    "soal": "Hobi merangkai benang menjadi syal",
+    "jawaban": "MERAJUT"
+  },
+  {
+    "index": 286,
+    "soal": "Permainan papan 64 kotak dengan raja dan ratu",
+    "jawaban": "CATUR"
+  },
+  {
+    "index": 287,
+    "soal": "Olahraga saling membanting lawan",
+    "jawaban": "GULAT"
+  },
+  {
+    "index": 288,
+    "soal": "Olahraga mengayuh perahu di sungai",
+    "jawaban": "DAYUNG"
+  },
+  {
+    "index": 289,
+    "soal": "Alat musik petik enam senar",
+    "jawaban": "GITAR"
+  },
+  {
+    "index": 290,
+    "soal": "Hobi mengisi gambar dengan pensil warna",
+    "jawaban": "MEWARNAI"
+  },
+  {
+    "index": 291,
+    "soal": "Kegiatan membuat sketsa dengan pensil",
+    "jawaban": "MENGGAMBAR"
+  },
+  {
+    "index": 292,
+    "soal": "Olahraga menunggang kuda",
+    "jawaban": "BERKUDA"
+  },
+  {
+    "index": 293,
+    "soal": "Olahraga bola rotan dengan kaki dan jaring",
+    "jawaban": "SEPAKTAKRAW"
+  },
+  {
+    "index": 294,
+    "soal": "Permainan memukul bola kecil lalu berlari bergantian",
+    "jawaban": "KASTI"
+  },
+  {
+    "index": 295,
+    "soal": "Hobi membuat corak pada kain dengan canting",
+    "jawaban": "MEMBATIK"
+  },
+  {
+    "index": 296,
+    "soal": "Hobi menikmati film atau pertandingan",
+    "jawaban": "MENONTON"
+  },
+  {
+    "index": 297,
+    "soal": "Alat musik bambu yang dimainkan dengan digoyang",
+    "jawaban": "ANGKLUNG"
+  },
+  {
+    "index": 298,
+    "soal": "Olahraga memukul bola melewati jaring dengan tangan",
+    "jawaban": "BOLAVOLI"
+  },
+  {
+    "index": 299,
+    "soal": "Olahraga memasukkan bola ke keranjang yang tinggi",
+    "jawaban": "BOLABASKET"
+  }
+]
